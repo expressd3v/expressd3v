@@ -1,4 +1,4 @@
-<h1 align="center">Nicholi Jin</h1>
+<h1 align="center">Expressd3v</h1>
 <h2 align="center">Full-stack software engineer / CTO</h2>
 <h2 align="center">⭐⭐⭐⭐⭐</h2>
 <h2 align="center">"Smart work, Not hard!"</h2>
