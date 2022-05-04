@@ -8,7 +8,7 @@
     <img src="Skype-PNG-Pic.png" width="60"/>
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/expresswebd3v" target="_blank"> 
-    <img src="Telegram.png" width="60"/>
+    <img src="Telegram.png" width="40"/>
 </a>&nbsp;&nbsp;&nbsp;
 <a href="mailto: expresswebd3v@gmail.com" target="_blank"> 
     <img src="email.png" width="48"/>
