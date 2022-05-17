@@ -23,5 +23,5 @@
 
 
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=expressd3v&theme=dark)](https://github.com/expressd3v) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expressd3v&layout=compact&theme=dark&hide_border=true" /> |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=expressd3v&theme=dark)](https://github.com/expressd3v) |
 | ------------- | ------------- |
